@@ -1,0 +1,1 @@
+print("ModernDataPlatform is starting!")
